@@ -1,0 +1,122 @@
+@font-face {
+    font-family: "Roboto";
+    src: url("fonts/Roboto/Roboto-Black.ttf");
+    font-weight: normal;
+    font-style: normal;
+  }
+
+body{
+    background-image: url(img6.jpeg);
+    background-size: 100%;
+    
+    position: absolute;
+    
+    
+}
+.gmail a{ 
+    color: black;
+    text-decoration: none;
+    position: absolute;
+    left: 1113px;
+    top: 17px;
+    
+
+}
+.image a{
+    color: black;
+    text-decoration: none;
+    position: absolute;
+    left: 1170px;
+    top: 17px;
+}
+.th{
+    left: 1236px;
+    top: 15px;
+    position: absolute;
+    font-size: 22px;
+}
+.user{
+    position: absolute;
+    top: 11px;
+    left: 1273px;
+    font-size: 26px;
+}
+.g1{
+    position: absolute;
+    color: rgb(64, 123, 233);
+    top: 153px;
+    left: 485px;
+    font-size: 40px;
+}
+.o1{
+    position: absolute;
+    top: 153px;
+    font-size: 40px;
+    
+    color: rgb(214, 61, 61);
+    left: 549px;
+}
+.o2{
+    position: absolute;
+    top: 153px;
+    font-size: 40px;
+    
+    color: rgb(230, 233, 58);
+    left: 597px;
+}
+.g2{
+    position: absolute;
+    top: 153px;
+    font-size: 40px;
+    
+    color:  rgb(64, 123, 233);
+    left: 647px;
+}
+.l{
+    position: absolute;
+    top: 153px;
+    font-size: 40px;
+    
+    color:  green;
+    left: 701px;
+}
+.e{
+    position: absolute;
+    top: 153px;
+    font-size: 40px;
+    
+    color:  rgb(214, 61, 61);
+    left: 732px;
+}
+.search{
+    position: absolute;
+    top: 349px;
+    left: 391px;
+    border: none;
+    height: 37px;
+    width: 477px;
+    border-radius: 20px;
+    box-shadow: 2px 0px 66px;
+    font-size: 17px; 
+    padding: 0 10px 0 45px;
+}
+.search:focus{
+    outline: none;
+}
+.middle{
+    font-family: "Roboto";
+}
+.logo1{
+    position: absolute;
+    background-color: white;
+    top: 358px;
+    left: 405px;
+    border-radius: 7px;
+}
+.microphone{
+    position: absolute;
+    background-color: white;
+    top: 362px;
+    left: 889px;
+
+}
